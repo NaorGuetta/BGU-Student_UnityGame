@@ -1,0 +1,28 @@
+{
+    "id": 69,
+    "CardImageIndex": 1,
+    "CardText": "שישי צהריים בבאר שבע- מסיבת צהריים בבנג'י או בריכה?",
+    "CharacterName": "חברים גמלים",
+    "LeftSwipeAction": {
+        "actionText": "בריכה, אשמח לקצת בטן גב",
+        "cardStats": {
+            "grades": -3,
+            "friends": 2,
+            "health": 3,
+            "money": 0
+        },
+        "followUpCardIds": [70]
+    },
+    "RightSwipeAction": {
+        "actionText": "מסיבה, יהיה כיף עם כל החברים",
+        "cardStats": {
+            "grades": -3,
+            "friends": 3,
+            "health": -4,
+            "money": -3
+        },
+        "followUpCardIds": [71]
+    },
+    "special": 0,
+    "isfollowUp": false
+}

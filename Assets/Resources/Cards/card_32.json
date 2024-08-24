@@ -1,0 +1,28 @@
+{
+    "id": 32,
+    "CardImageIndex": 5,
+    "CardText": "סיימת את חדו\"א 1 בציון 001. אולי תעביר שיעורים פרטיים לשנה א?",
+    "CharacterName": "גמל לומד",
+    "LeftSwipeAction": {
+        "actionText": "ברור, שיעורים פרטיים זה אחלה כסף",
+        "cardStats": {
+            "grades": -3,
+            "friends": 0,
+            "health": -3,
+            "money": 6
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "זה כסף טוב אבל זה ידרוש ממני הרבה זמן, אבחר להשקיע בקורס חדו\"א 2",
+        "cardStats": {
+            "grades": 3,
+            "friends": 0,
+            "health": 0,
+            "money": -4
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

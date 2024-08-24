@@ -1,0 +1,28 @@
+{
+    "id": 60,
+    "CardImageIndex": 5,
+    "CardText": "אתה מרגיש שאתה לא רואה טוב את הלוח בהרצאה, אולי אתה צריך משקפיים?",
+    "CharacterName": "גמל לומד",
+    "LeftSwipeAction": {
+        "actionText": "אלך לעשות בדיקת ראייה",
+        "cardStats": {
+            "grades": 2,
+            "friends": 0,
+            "health": 3,
+            "money": -5
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "לא חושב, אנסה לשבת טיפה יותר קרוב",
+        "cardStats": {
+            "grades": -3,
+            "friends": 0,
+            "health": -5,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

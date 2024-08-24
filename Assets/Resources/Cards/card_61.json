@@ -1,0 +1,28 @@
+{
+    "id": 61,
+    "CardImageIndex": 1,
+    "CardText": "דירה בשכונה ב' או שכונה ד'?",
+    "CharacterName": "חברים גמלים",
+    "LeftSwipeAction": {
+        "actionText": "ד'- קצת יותר ישן אבל הרבה יותר זול",
+        "cardStats": {
+            "grades": 0,
+            "friends": 2,
+            "health": -6,
+            "money": -3
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "איפה שחברים שלי גרים",
+        "cardStats": {
+            "grades": 0,
+            "friends": 3,
+            "health": 3,
+            "money": -5
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

@@ -1,0 +1,28 @@
+{
+    "id": 106,
+    "CardImageIndex": 7,
+    "CardText": "חברים הזמינו אותך לשחק כדורסל",
+    "CharacterName": "גמל ספורטיבי",
+    "LeftSwipeAction": {
+        "actionText": "מת על כדורסל בטח שהולך",
+        "cardStats": {
+            "grades": -3,
+            "friends": 3,
+            "health": -2,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "רוצה ללכת אבל יש עוד עבודות להגיש השבוע",
+        "cardStats": {
+            "grades": 2,
+            "friends": -4,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

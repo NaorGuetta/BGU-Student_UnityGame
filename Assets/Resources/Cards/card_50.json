@@ -1,0 +1,28 @@
+{
+    "id": 50,
+    "CardImageIndex": 6,
+    "CardText": "לקראת תחילת השנה הציעו לך לעשות מלגת פרח",
+    "CharacterName": "גמל עייף",
+    "LeftSwipeAction": {
+        "actionText": "אעשה את זה, גם ארוויח כסף וזה גם התנדבות חשובה",
+        "cardStats": {
+            "grades": -3,
+            "friends": -3,
+            "health": 0,
+            "money": 3
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "אצטרך לוותר, זה יידרוש זמן וזה יבוא על חשבון חברים ולימודים",
+        "cardStats": {
+            "grades": 3,
+            "friends": 3,
+            "health": 0,
+            "money": -3
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

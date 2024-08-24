@@ -1,0 +1,28 @@
+{
+    "id": 15,
+    "CardImageIndex": 6,
+    "CardText": "אתה ממש מצונן ויש שמועות שהקורונה חזרה לגל נוסף",
+    "CharacterName": "גמל עייף ",
+    "LeftSwipeAction": {
+        "actionText": "אתעלם מזה ואלך לאוניברסיטה כרגיל, יעבור",
+        "cardStats": {
+            "grades": 3,
+            "friends": -2,
+            "health": -6,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "אעשה לעצמי בידוד יזום ואשאר בבית שבועיים",
+        "cardStats": {
+            "grades": -3,
+            "friends": -2,
+            "health": 3,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": true
+}

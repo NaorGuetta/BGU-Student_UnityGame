@@ -1,0 +1,28 @@
+{
+    "id": 71,
+    "CardImageIndex": 1,
+    "CardText": "רק התחילה המסיבה ואתה קולט שאחד החברים שתה יותר מדי",
+    "CharacterName": "חברים גמלים",
+    "LeftSwipeAction": {
+        "actionText": "אדאג לו ואקח איתו מונית הביתה",
+        "cardStats": {
+            "grades": 0,
+            "friends": 3,
+            "health": -2,
+            "money": -3
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "אתן לו קצת מים והוא יהיה בסדר",
+        "cardStats": {
+            "grades": 0,
+            "friends": -4,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": true
+}

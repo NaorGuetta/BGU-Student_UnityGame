@@ -1,0 +1,28 @@
+{
+    "id": 85,
+    "CardImageIndex": 8,
+    "CardText": "האיטלקיה העלתה תמונה איתך, תייגה אותך וחברה שלך גילתה על זה",
+    "CharacterName": "",
+    "LeftSwipeAction": {
+        "actionText": "אגיד לה את האמת ואצפה למוות מהיר",
+        "cardStats": {
+            "grades": 0,
+            "friends": -100,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "אשקר לה ואצפה למוות איטי",
+        "cardStats": {
+            "grades": 0,
+            "friends": -100,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": true
+}

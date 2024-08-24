@@ -1,0 +1,28 @@
+{
+    "id": 44,
+    "CardImageIndex": 5,
+    "CardText": "עשית מועד ב' כדי לשפר, אבל נכשלת בו",
+    "CharacterName": "גמל לומד",
+    "LeftSwipeAction": {
+        "actionText": "אלך להתחנן שיחשיבו את הציון של מועד א'",
+        "cardStats": {
+            "grades": -3,
+            "friends": 0,
+            "health": -3,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "אעשה שוב את הקורס ואוציא בו 001",
+        "cardStats": {
+            "grades": 6,
+            "friends": 0,
+            "health": -5,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

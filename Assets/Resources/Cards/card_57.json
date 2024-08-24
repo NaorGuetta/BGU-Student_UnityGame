@@ -1,0 +1,28 @@
+{
+    "id": 57,
+    "CardImageIndex": 1,
+    "CardText": "הציעו לך להשתתף מחר במחקר של הפקולטה לרפואה ולקבל על זה כסף",
+    "CharacterName": "גמל עשיר",
+    "LeftSwipeAction": {
+        "actionText": "מגניב, כסף קל וגם תמיד רציתי זנב",
+        "cardStats": {
+            "grades": 0,
+            "friends": 0,
+            "health": -2,
+            "money": 4
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "לא יכול, קבעתי ערב עם חברים",
+        "cardStats": {
+            "grades": 0,
+            "friends": 3,
+            "health": 0,
+            "money": -4
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

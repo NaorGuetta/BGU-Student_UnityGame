@@ -1,0 +1,28 @@
+{
+    "id": 101,
+    "CardImageIndex": 5,
+    "CardText": "צריך להגיש עבודה חדשה ותקבל 06",
+    "CharacterName": "גמל לומד",
+    "LeftSwipeAction": {
+        "actionText": "עדיף לפחות לא עפתי מהאוניברסיטה",
+        "cardStats": {
+            "grades": -1,
+            "friends": 0,
+            "health": -4,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "רץ להתחיל את העבודה",
+        "cardStats": {
+            "grades": 0,
+            "friends": 0,
+            "health": -4,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": true
+}

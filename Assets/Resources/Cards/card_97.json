@@ -1,0 +1,32 @@
+{
+    "id": 97,
+    "CardImageIndex": 5,
+    "CardText": "4 חודשים הטובים בחיי הגיע הזמן לחזור לארץ",
+    "CharacterName": "",
+    "LeftSwipeAction": {
+        "actionText": "נשאר כאן לתמיד יותר טוב פה",
+        "cardStats": {
+            "grades": 0,
+            "friends": -4,
+            "health": 0,
+            "money": -4
+        },
+        "followUpCardIds": [
+            98
+        ]
+    },
+    "RightSwipeAction": {
+        "actionText": "התגעגתי למשפחה ולחברים הגיע הזמן",
+        "cardStats": {
+            "grades": 0,
+            "friends": 4,
+            "health": 4,
+            "money": 0
+        },
+        "followUpCardIds": [
+            98
+        ]
+    },
+    "special": 0,
+    "isfollowUp": true
+}

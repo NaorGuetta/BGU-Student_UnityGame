@@ -1,0 +1,28 @@
+{
+    "id": 36,
+    "CardImageIndex": 5,
+    "CardText": "חילופי סטודנטים?",
+    "CharacterName": "גמל לומד",
+    "LeftSwipeAction": {
+        "actionText": "ברור שכן! מחכה לזה ממש",
+        "cardStats": {
+            "grades": -2,
+            "friends": 0,
+            "health": 3,
+            "money": -4
+        },
+        "followUpCardIds": [37]
+    },
+    "RightSwipeAction": {
+        "actionText": "לא זה לא בשבילי, מעדיף להתמקד בלימודים פה",
+        "cardStats": {
+            "grades": 3,
+            "friends": 0,
+            "health": -6,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

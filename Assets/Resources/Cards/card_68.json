@@ -1,0 +1,28 @@
+{
+    "id": 68,
+    "CardImageIndex": 5,
+    "CardText": "מצאת 002 שקל בדרך לאוניברסיטה!",
+    "CharacterName": "גמל לומד",
+    "LeftSwipeAction": {
+        "actionText": "איזה כיף",
+        "cardStats": {
+            "grades": 0,
+            "friends": 0,
+            "health": 0,
+            "money": 3
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "בטוח מישהו עכשיו מחפש את זה, אשאיר שם",
+        "cardStats": {
+            "grades": 0,
+            "friends": 0,
+            "health": 2,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

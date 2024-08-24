@@ -1,0 +1,28 @@
+{
+    "id": 18,
+    "CardImageIndex": 3,
+    "CardText": "התחלת לצאת עם מישהי אבל היא סיימה את התואר ועברה למרכז",
+    "CharacterName": "בת זוג גמל",
+    "LeftSwipeAction": {
+        "actionText": "עושה נסיעות פעמיים בשבוע, האהבה שווה הכל!",
+        "cardStats": {
+            "grades": -3,
+            "friends": 3,
+            "health": 6,
+            "money": -3
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "מסיים את הקשר, זה לא מסתדר",
+        "cardStats": {
+            "grades": 2,
+            "friends": -3,
+            "health": -3,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

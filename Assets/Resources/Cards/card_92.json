@@ -1,0 +1,28 @@
+{
+    "id": 92,
+    "CardImageIndex": 9,
+    "CardText": "החברים הבאר שבעיים שלך גילו ששיקרת להם",
+    "CharacterName": "",
+    "LeftSwipeAction": {
+        "actionText": "אתה חוזר לארץ ומת באופן מסטורי בשכונה ד",
+        "cardStats": {
+            "grades": 0,
+            "friends": 0,
+            "health": -100,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "מתחנן לחיי וזה עובד אבל הם חותכים עליי",
+        "cardStats": {
+            "grades": 0,
+            "friends": -100,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": true
+}

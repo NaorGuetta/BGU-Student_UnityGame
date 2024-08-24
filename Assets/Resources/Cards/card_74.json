@@ -1,0 +1,28 @@
+{
+    "id": 74,
+    "CardImageIndex": 5,
+    "CardText": "אתה באוניברסיטה ושכחת להביא משהו לאכול",
+    "CharacterName": "גמל לומד",
+    "LeftSwipeAction": {
+        "actionText": "אקנה לי איזה חטיף ואוכל כמו שצריך בערב",
+        "cardStats": {
+            "grades": 0,
+            "friends": 0,
+            "health": -5,
+            "money": -3
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "אשקיע ואקנה לי סלט בריא",
+        "cardStats": {
+            "grades": 0,
+            "friends": 0,
+            "health": 2,
+            "money": -3
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

@@ -1,0 +1,28 @@
+{
+    "id": 49,
+    "CardImageIndex": 3,
+    "CardText": "עברת לדירה חדשה עם הבת זוג והיא ריקה לגמרי",
+    "CharacterName": "בת זוג גמל ",
+    "LeftSwipeAction": {
+        "actionText": "נשיג הכל מהמרקט פלייס, גם אם דברים מעפנים",
+        "cardStats": {
+            "grades": 0,
+            "friends": -3,
+            "health": -3,
+            "money": 1
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "נקנה הכל חדש ונעצב יפה",
+        "cardStats": {
+            "grades": 0,
+            "friends": 3,
+            "health": 2,
+            "money": -6
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

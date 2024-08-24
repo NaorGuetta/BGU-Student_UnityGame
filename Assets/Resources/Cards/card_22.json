@@ -1,0 +1,28 @@
+{
+    "id": 22,
+    "CardImageIndex": 1,
+    "CardText": "חברים מהתואר אירגנו כדורגל אחרי הלימודים",
+    "CharacterName": "חברים גמלים",
+    "LeftSwipeAction": {
+        "actionText": "נתת הכל במשחק ונקעת את הרגל",
+        "cardStats": {
+            "grades": 0,
+            "friends": 6,
+            "health": -6,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "אלך אבל רק לעודד",
+        "cardStats": {
+            "grades": 0,
+            "friends": 3,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

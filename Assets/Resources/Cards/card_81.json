@@ -1,0 +1,32 @@
+{
+    "id": 81,
+    "CardImageIndex": 8,
+    "CardText": "שנתחבר לאנשים חדשים במילאנו",
+    "CharacterName": "",
+    "LeftSwipeAction": {
+        "actionText": "כן! הזדמנות להתחבר אני בודד",
+        "cardStats": {
+            "grades": 0,
+            "friends": 4,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": [
+            82
+        ]
+    },
+    "RightSwipeAction": {
+        "actionText": "לא סומך על אף אחד בארץ זרה",
+        "cardStats": {
+            "grades": 0,
+            "friends": -3,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": [
+            82
+        ]
+    },
+    "special": 0,
+    "isfollowUp": true
+}

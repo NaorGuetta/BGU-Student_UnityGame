@@ -1,0 +1,28 @@
+{
+    "id": 19,
+    "CardImageIndex": 5,
+    "CardText": "הגיע הזמן לבחור קורסים",
+    "CharacterName": "גמל לומד",
+    "LeftSwipeAction": {
+        "actionText": "החברים החליטו שהם הולכים על קורס שנחשב קל, אלך איתם",
+        "cardStats": {
+            "grades": -4,
+            "friends": 3,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "אבחר את מה שמעניין אותי, גם אם אהיה לבד",
+        "cardStats": {
+            "grades": 3,
+            "friends": -6,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

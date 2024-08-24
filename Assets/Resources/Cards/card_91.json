@@ -1,0 +1,30 @@
+{
+    "id": 91,
+    "CardImageIndex": 9,
+    "CardText": "מישהו העלה אותך לטיקטוק זה התפוצץ, והגיע לחברים הבאר שבעיים שלך",
+    "CharacterName": "",
+    "LeftSwipeAction": {
+        "actionText": "משקר לחברים שלי שזה לא אני",
+        "cardStats": {
+            "grades": 0,
+            "friends": -4,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": [
+            92
+        ]
+    },
+    "RightSwipeAction": {
+        "actionText": "אומר את האמת ונהיה מנודה",
+        "cardStats": {
+            "grades": 0,
+            "friends": -100,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": true
+}

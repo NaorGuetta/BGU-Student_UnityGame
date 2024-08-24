@@ -1,0 +1,28 @@
+{
+    "id": 27,
+    "CardImageIndex": 1,
+    "CardText": "יש השבוע הופעות פתיחת שנה באוניברסיטה, אבל האומנים שהביאו לא ככ מעניינים",
+    "CharacterName": " חברים גמלים",
+    "LeftSwipeAction": {
+        "actionText": "הולך עם חברים, יהיה כיף בכל מקרה",
+        "cardStats": {
+            "grades": -4,
+            "friends": 3,
+            "health": 2,
+            "money": -2
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "מתקמבן על עבודה בבר, לפחות ארוויח קצת כסף",
+        "cardStats": {
+            "grades": -4,
+            "friends": 0,
+            "health": -4,
+            "money": 3
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

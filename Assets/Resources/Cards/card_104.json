@@ -1,0 +1,28 @@
+{
+    "id": 104,
+    "CardImageIndex": 1,
+    "CardText": "חבר מבקש שתעזור לו בעבודת הגשה",
+    "CharacterName": "חברים גמלים",
+    "LeftSwipeAction": {
+        "actionText": "בטח שעוזר חבל שירדו לו נקודות",
+        "cardStats": {
+            "grades": -3,
+            "friends": 2,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "חייב להתחיל ללמוד למבחנים, הוא יצליח בסוף",
+        "cardStats": {
+            "grades": 2,
+            "friends": -4,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

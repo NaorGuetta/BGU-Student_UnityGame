@@ -1,0 +1,28 @@
+{
+    "id": 3,
+    "CardImageIndex": 5,
+    "CardText": "מחר יום הסטודנט אבל מחרתיים יש בוחן במודלים מה עושים?",
+    "CharacterName": "גמל לומד",
+    "LeftSwipeAction": {
+        "actionText": "ברור שליום הסטודנט",
+        "cardStats": {
+            "grades": -3,
+            "friends": 6,
+            "health": 0,
+            "money": -2
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "לא יכול אני חייב ללמוד",
+        "cardStats": {
+            "grades": 3,
+            "friends": -6,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

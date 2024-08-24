@@ -1,0 +1,28 @@
+{
+    "id": 5,
+    "CardImageIndex": 5,
+    "CardText": "פספסת 5 הרצאות בחדו\"א והמבחן מתקרב",
+    "CharacterName": "גמל לומד",
+    "LeftSwipeAction": {
+        "actionText": "אקח מורה פרטי",
+        "cardStats": {
+            "grades": 9,
+            "friends": 0,
+            "health": 0,
+            "money": -6
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "אשלים את החומר לבד",
+        "cardStats": {
+            "grades": 3,
+            "friends": 0,
+            "health": -2,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

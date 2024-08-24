@@ -1,0 +1,28 @@
+{
+    "id": 33,
+    "CardImageIndex": 1,
+    "CardText": "חברים שלך העלו רעיון להקים סטארטאפ",
+    "CharacterName": "חברים גמלים",
+    "LeftSwipeAction": {
+        "actionText": "מצטרף אליהם ושם השקעה ראשונית של 0001 ש\"ח",
+        "cardStats": {
+            "grades": 0,
+            "friends": 3,
+            "health": 0,
+            "money": -6
+        },
+        "followUpCardIds": [34]
+    },
+    "RightSwipeAction": {
+        "actionText": "הרעיון שלהם לא טוב, אין סיכוי שזה יצליח",
+        "cardStats": {
+            "grades": 0,
+            "friends": -6,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": [80]
+    },
+    "special": 0,
+    "isfollowUp": false
+}

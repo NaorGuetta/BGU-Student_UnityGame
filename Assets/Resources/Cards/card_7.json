@@ -1,0 +1,28 @@
+{
+    "id": 7,
+    "CardImageIndex": 5,
+    "CardText": "נתקעת בלי זוג לעבודה בקורס",
+    "CharacterName": "גמל לומד",
+    "LeftSwipeAction": {
+        "actionText": "אעשה אותה לבד",
+        "cardStats": {
+            "grades": 6,
+            "friends": -3,
+            "health": -4,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "אבדוק בקבוצה למי אין זוג ואצטרף אליו",
+        "cardStats": {
+            "grades": 3,
+            "friends": 3,
+            "health": 3,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

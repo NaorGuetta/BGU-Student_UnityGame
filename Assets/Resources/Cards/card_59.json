@@ -1,0 +1,28 @@
+{
+    "id": 59,
+    "CardImageIndex": 5,
+    "CardText": "העלו את הסריקות של המבחן ואתה רואה שטעית אבל נתנו לך את הנקודות",
+    "CharacterName": "גמל לומד",
+    "LeftSwipeAction": {
+        "actionText": "אכתוב למרצה, זה הדבר הנכון לעשות",
+        "cardStats": {
+            "grades": -6,
+            "friends": 0,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "טעות נהדרת איזה כיף",
+        "cardStats": {
+            "grades": 6,
+            "friends": 0,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

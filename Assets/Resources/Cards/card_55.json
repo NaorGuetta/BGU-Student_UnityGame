@@ -1,0 +1,28 @@
+{
+    "id": 55,
+    "CardImageIndex": 2,
+    "CardText": "סיימת שנה א', מה תעשה בחופש?",
+    "CharacterName": "גמל בלי כסף",
+    "LeftSwipeAction": {
+        "actionText": "אעבוד קצת במלצרות, חייב קצת להכניס כסף",
+        "cardStats": {
+            "grades": 0,
+            "friends": -4,
+            "health": -3,
+            "money": 6
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "טס לתאילנד חייב קצת בטן גב",
+        "cardStats": {
+            "grades": 0,
+            "friends": 2,
+            "health": 4,
+            "money": -6
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

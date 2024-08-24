@@ -1,0 +1,28 @@
+{
+    "id": 48,
+    "CardImageIndex": 7,
+    "CardText": "ניצחתם בטורניר!! קיבלתם מענק של 000,5 שח כל אחד",
+    "CharacterName": "גמל ספורטיבי",
+    "LeftSwipeAction": {
+        "actionText": "איזה כיף!!",
+        "cardStats": {
+            "grades": 0,
+            "friends": 0,
+            "health": 0,
+            "money": 6
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "סבתא קוראת לי לברון ג'יימס",
+        "cardStats": {
+            "grades": 0,
+            "friends": 0,
+            "health": 0,
+            "money": 6
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": true
+}

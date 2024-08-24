@@ -1,0 +1,28 @@
+{
+    "id": 6,
+    "CardImageIndex": 2,
+    "CardText": "קיבלת הצעת עבודה אבל היא משרה מלאה",
+    "CharacterName": "גמל בלי כסף",
+    "LeftSwipeAction": {
+        "actionText": "ברור שאקבל אותה, זו הזדמנות מטורפת",
+        "cardStats": {
+            "grades": -3,
+            "friends": -3,
+            "health": -2,
+            "money": 9
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "אין לי זמן לזה, קודם אסיים ללמוד",
+        "cardStats": {
+            "grades": 3,
+            "friends": 0,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

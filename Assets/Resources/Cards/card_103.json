@@ -1,0 +1,28 @@
+{
+    "id": 103,
+    "CardImageIndex": 1,
+    "CardText": "יום הולדת של חבר מהתואר מחר, אבל גם מועד ב במודלים",
+    "CharacterName": "חברים גמלים",
+    "LeftSwipeAction": {
+        "actionText": "חייב ללכת נראה לי שאני יעבור גם ככה",
+        "cardStats": {
+            "grades": -3,
+            "friends": 2,
+            "health": 0,
+            "money": -2
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "קיבלתי מספר חד ספרתי במועד א אין סיכוי שאני נכשל שוב",
+        "cardStats": {
+            "grades": 2,
+            "friends": -5,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

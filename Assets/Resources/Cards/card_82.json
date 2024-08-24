@@ -1,0 +1,32 @@
+{
+    "id": 82,
+    "CardImageIndex": 8,
+    "CardText": "שנלמד איך להכין פסטה ופיצה, איטליה בכל זאת",
+    "CharacterName": "",
+    "LeftSwipeAction": {
+        "actionText": "ברור זה יהיה הסוף של השניצל מהמפקיא",
+        "cardStats": {
+            "grades": 0,
+            "friends": 0,
+            "health": -3,
+            "money": -3
+        },
+        "followUpCardIds": [
+            83
+        ]
+    },
+    "RightSwipeAction": {
+        "actionText": "אני בדיאטה אסור להשבר",
+        "cardStats": {
+            "grades": 0,
+            "friends": 0,
+            "health": 2,
+            "money": 0
+        },
+        "followUpCardIds": [
+            83
+        ]
+    },
+    "special": 0,
+    "isfollowUp": true
+}

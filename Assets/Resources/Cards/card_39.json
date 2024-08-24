@@ -1,0 +1,28 @@
+{
+    "id": 39,
+    "CardImageIndex": 5,
+    "CardText": "חברים שלומדים איתך מארגנים טיסה ביחד אחרי שייגמר הסמסטר",
+    "CharacterName": "גמל לומד",
+    "LeftSwipeAction": {
+        "actionText": "קצת יקר בגלל שזה ברגע האחרון, אבל חוויה חד פעמית",
+        "cardStats": {
+            "grades": -4,
+            "friends": 5,
+            "health": 0,
+            "money": -5
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "הסמסטר בארץ כבר התחיל, אוותר על הנסיעה",
+        "cardStats": {
+            "grades": 3,
+            "friends": -6,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

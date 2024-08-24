@@ -1,0 +1,32 @@
+{
+    "id": 80,
+    "CardImageIndex": 8,
+    "CardText": "איפה תגור?",
+    "CharacterName": "",
+    "LeftSwipeAction": {
+        "actionText": "האוניברסיטה מציע לך משפחה אורחת אבל היא עם 8 נפשות",
+        "cardStats": {
+            "grades": 0,
+            "friends": 0,
+            "health": -4,
+            "money": 0
+        },
+        "followUpCardIds": [
+            81
+        ]
+    },
+    "RightSwipeAction": {
+        "actionText": "רק דירה לבד צריך פרטיות",
+        "cardStats": {
+            "grades": 0,
+            "friends": 0,
+            "health": 0,
+            "money": -3
+        },
+        "followUpCardIds": [
+            81
+        ]
+    },
+    "special": 0,
+    "isfollowUp": true
+}

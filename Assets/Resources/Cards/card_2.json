@@ -1,0 +1,28 @@
+{
+    "id": 2,
+    "CardImageIndex": 5,
+    "CardText": "לא יצאתי כבר שבועיים אבל יש בוחן בלוגיקה מחר",
+    "CharacterName": "גמל לומד",
+    "LeftSwipeAction": {
+        "actionText": "חברים: \" בוא לרוטס יא בוגד\" ",
+        "cardStats": {
+            "grades": -4,
+            "friends": 8,
+            "health": 0,
+            "money": -4
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "קיבלתי 09 בבוחן",
+        "cardStats": {
+            "grades": 6,
+            "friends": -3,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

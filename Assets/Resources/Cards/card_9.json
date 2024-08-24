@@ -1,0 +1,28 @@
+{
+    "id": 9,
+    "CardImageIndex": 5,
+    "CardText": "באת לספרייה ללמוד בלי סווטשרט והמזגן שם מקפיא",
+    "CharacterName": "גמל לומד",
+    "LeftSwipeAction": {
+        "actionText": "נשאר ללמוד למרות הקור וחוזר מצונן",
+        "cardStats": {
+            "grades": 3,
+            "friends": 0,
+            "health": -6,
+            "money": 0
+        },
+        "followUpCardIds": [15]
+    },
+    "RightSwipeAction": {
+        "actionText": "מוותר והולך ללמוד בבית בטמפרטורה נורמלית",
+        "cardStats": {
+            "grades": 2,
+            "friends": 0,
+            "health": 2,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

@@ -1,0 +1,28 @@
+{
+    "id": 47,
+    "CardImageIndex": 7,
+    "CardText": "התקבלת לנבחרת הכדורסל! יש את הטורניר באילת אבל הוא בסופש לפני בוחן חשוב",
+    "CharacterName": "גמל ספורטיבי",
+    "LeftSwipeAction": {
+        "actionText": "אצטרך לוותר על הטורניר ולאכזב את חברי הקבוצה",
+        "cardStats": {
+            "grades": 3,
+            "friends": -6,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "אנסה ללמוד לפני ולהצליח בשניהם",
+        "cardStats": {
+            "grades": -3,
+            "friends": 3,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": [48]
+    },
+    "special": 0,
+    "isfollowUp": true
+}

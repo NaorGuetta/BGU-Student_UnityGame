@@ -1,0 +1,28 @@
+{
+    "id": 76,
+    "CardImageIndex": 5,
+    "CardText": "קיבלת 06 במבחן ואתה חושב שהורידו לך יותר מדי בשאלה מסוימת",
+    "CharacterName": "גמל לומד",
+    "LeftSwipeAction": {
+        "actionText": "אערער על השאלה",
+        "cardStats": {
+            "grades": 0,
+            "friends": 0,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": [77]
+    },
+    "RightSwipeAction": {
+        "actionText": "מפחד לערער, לפחות עברתי",
+        "cardStats": {
+            "grades": -4,
+            "friends": 0,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

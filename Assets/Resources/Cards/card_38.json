@@ -1,0 +1,28 @@
+{
+    "id": 38,
+    "CardImageIndex": 5,
+    "CardText": "נתפסת על העתקה, מה תעשה?",
+    "CharacterName": "גמל לומד",
+    "LeftSwipeAction": {
+        "actionText": "זה לא אני!!",
+        "cardStats": {
+            "grades": -3,
+            "friends": 0,
+            "health": -6,
+            "money": 0
+        },
+        "followUpCardIds": [81]
+    },
+    "RightSwipeAction": {
+        "actionText": "להתחנן לרחמים",
+        "cardStats": {
+            "grades": 0,
+            "friends": 0,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": [41]
+    },
+    "special": 0,
+    "isfollowUp": true
+}

@@ -1,0 +1,28 @@
+{
+    "id": 203,
+    "CardImageIndex": 1,
+    "CardText": "התקף חרדה קיצוני !",
+    "CharacterName": "החלק כדי לנסות שוב",
+    "LeftSwipeAction": {
+        "actionText": "בורח מפה ומתחיל קריירת סולו נגינה על דרבוקה",
+        "cardStats": {
+            "grades": 0,
+            "friends": 0,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "מי צריך אנשים )עובר לאלסקה(",
+        "cardStats": {
+            "grades": 0,
+            "friends": 0,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 3,
+    "isfollowUp": false
+}

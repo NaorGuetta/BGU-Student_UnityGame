@@ -1,0 +1,28 @@
+{
+    "id": 105,
+    "CardImageIndex": 3,
+    "CardText": "החבר/ה רוצה לטוס לטיול בסופש",
+    "CharacterName": "בת זוג גמל",
+    "LeftSwipeAction": {
+        "actionText": "קצת חופש לא הרג אף אחד",
+        "cardStats": {
+            "grades": -3,
+            "friends": 3,
+            "health": 2,
+            "money": -2
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "חייב להמשיך ללמוד, אין סיכוי לטוס לפני סוף הסמסטר",
+        "cardStats": {
+            "grades": 2,
+            "friends": -4,
+            "health": -2,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

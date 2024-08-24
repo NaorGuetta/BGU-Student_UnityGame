@@ -1,0 +1,28 @@
+{
+    "id": 73,
+    "CardImageIndex": 6,
+    "CardText": "הזמינו אותך לארוחת ערב אצל חברים אבל היה לך יום ממש ארוך",
+    "CharacterName": "גמל עייף",
+    "LeftSwipeAction": {
+        "actionText": "אלך בכל מקרה",
+        "cardStats": {
+            "grades": 0,
+            "friends": 4,
+            "health": -5,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "אשאר לנוח בבית אני ממש עייף",
+        "cardStats": {
+            "grades": 0,
+            "friends": -3,
+            "health": 3,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

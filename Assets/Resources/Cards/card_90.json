@@ -1,0 +1,32 @@
+{
+    "id": 90,
+    "CardImageIndex": 9,
+    "CardText": "רואה ריקודי פלמנקו ברחוב",
+    "CharacterName": "",
+    "LeftSwipeAction": {
+        "actionText": "מצטרף נלמד איך לרקוד",
+        "cardStats": {
+            "grades": 0,
+            "friends": 2,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": [
+            91
+        ]
+    },
+    "RightSwipeAction": {
+        "actionText": "פדיחה קל שלא",
+        "cardStats": {
+            "grades": 0,
+            "friends": 1,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": [
+            93
+        ]
+    },
+    "special": 0,
+    "isfollowUp": true
+}

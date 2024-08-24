@@ -1,0 +1,28 @@
+{
+    "id": 24,
+    "CardImageIndex": 1,
+    "CardText": "חברים מהבית מארגנים טיסה, אבל היא יוצאת על מועד ב'",
+    "CharacterName": "חברים גמלים",
+    "LeftSwipeAction": {
+        "actionText": "אין מצב שמפספס את זה",
+        "cardStats": {
+            "grades": -3,
+            "friends": 6,
+            "health": 0,
+            "money": -6
+        },
+        "followUpCardIds": [25]
+    },
+    "RightSwipeAction": {
+        "actionText": "הלימודים יותר חשובים, אטוס איתם שנה הבאה",
+        "cardStats": {
+            "grades": 6,
+            "friends": -6,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

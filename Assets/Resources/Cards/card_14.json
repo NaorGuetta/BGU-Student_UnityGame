@@ -1,0 +1,28 @@
+{
+    "id": 14,
+    "CardImageIndex": 4,
+    "CardText": "יש לך יום הולדת שבוע הבא!! איך תחגוג?",
+    "CharacterName": "גמל עשיר",
+    "LeftSwipeAction": {
+        "actionText": "ארוחת בוקר ומסאג', בערב מסיבה מטורפת. יום הולדת יש פעם בשנה!",
+        "cardStats": {
+            "grades": -4,
+            "friends": 6,
+            "health": 3,
+            "money": -8
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "אין לי זמן וכסף לחגיגות כל כך, אשב בבית עם חברים ונחגוג בקטנה",
+        "cardStats": {
+            "grades": -2,
+            "friends": 1,
+            "health": -3,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

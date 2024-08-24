@@ -1,0 +1,28 @@
+{
+    "id": 46,
+    "CardImageIndex": 7,
+    "CardText": "מחר המיונים לנבחרת הכדורסל של האוניברסיטה",
+    "CharacterName": "גמל ספורטיבי",
+    "LeftSwipeAction": {
+        "actionText": "איזה כיף, אלך לנסות להתקבל",
+        "cardStats": {
+            "grades": 0,
+            "friends": 2,
+            "health": 3,
+            "money": 0
+        },
+        "followUpCardIds": [47]
+    },
+    "RightSwipeAction": {
+        "actionText": "מה לי ולכדורסל",
+        "cardStats": {
+            "grades": 0,
+            "friends": -3,
+            "health": -3,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

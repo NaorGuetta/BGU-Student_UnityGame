@@ -1,0 +1,28 @@
+{
+    "id": 201,
+    "CardImageIndex": 1,
+    "CardText": "אפיסת כוחות, לא מצליח לעמוד",
+    "CharacterName": "החלק כדי לנסות שוב",
+    "LeftSwipeAction": {
+        "actionText": "סוגר כרטיס טיסה כיוון אחד לתאילנד",
+        "cardStats": {
+            "grades": 0,
+            "friends": 0,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "עובר לערבה לעבוד עם חיות בר",
+        "cardStats": {
+            "grades": 0,
+            "friends": 0,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 1,
+    "isfollowUp": false
+}

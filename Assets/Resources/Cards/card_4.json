@@ -1,0 +1,28 @@
+{
+    "id": 4,
+    "CardImageIndex": 5,
+    "CardText": "תאריך ההגשה של העבודה ב-LPS הוא מחר, אבל היא לא עובדת כמו שצריך",
+    "CharacterName": "גמל לומד",
+    "LeftSwipeAction": {
+        "actionText": "אשאר ער כל הלילה לתקן",
+        "cardStats": {
+            "grades": 3,
+            "friends": 0,
+            "health": -6,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "אלך לישון ויהיה מה שיהיה",
+        "cardStats": {
+            "grades": -6,
+            "friends": 0,
+            "health": 3,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

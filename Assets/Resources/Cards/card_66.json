@@ -1,0 +1,28 @@
+{
+    "id": 66,
+    "CardImageIndex": 1,
+    "CardText": "חבר ביקש ממך לשמור על הכלב שלו השבוע",
+    "CharacterName": "חברים גמלים",
+    "LeftSwipeAction": {
+        "actionText": "איזה כיף! ברור שאגיד לו שכן",
+        "cardStats": {
+            "grades": -3,
+            "friends": 3,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": [67]
+    },
+    "RightSwipeAction": {
+        "actionText": "אגיד לו שאין לי זמן לזה, שבוע עמוס בלימודים",
+        "cardStats": {
+            "grades": 2,
+            "friends": -4,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

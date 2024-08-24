@@ -1,0 +1,28 @@
+{
+    "id": 34,
+    "CardImageIndex": 5,
+    "CardText": "הסטארטאפ באוויר! אבל ההשקעה פוגעת לך בלימודים",
+    "CharacterName": "גמל לומד",
+    "LeftSwipeAction": {
+        "actionText": "אז מה? הסטארטאפ יכול לסדר אותי",
+        "cardStats": {
+            "grades": -3,
+            "friends": 0,
+            "health": 0,
+            "money": 3
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "אפרוש בשיא, הלימודים יותר חשובים",
+        "cardStats": {
+            "grades": 3,
+            "friends": -3,
+            "health": 0,
+            "money": -3
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": true
+}

@@ -1,0 +1,32 @@
+{
+    "id": 84,
+    "CardImageIndex": 8,
+    "CardText": "ראית איטלקיה מהממת שתגשת אליה?",
+    "CharacterName": "",
+    "LeftSwipeAction": {
+        "actionText": " נגש מה כבר יקרה",
+        "cardStats": {
+            "grades": 0,
+            "friends": -4,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": [
+            85
+        ]
+    },
+    "RightSwipeAction": {
+        "actionText": "יש לי בכלל חברה בארץ אסור להסתכל!!",
+        "cardStats": {
+            "grades": 0,
+            "friends": 2,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": [
+            86
+        ]
+    },
+    "special": 0,
+    "isfollowUp": true
+}

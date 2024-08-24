@@ -1,0 +1,28 @@
+{
+    "id": 67,
+    "CardImageIndex": 6,
+    "CardText": "השארת את הכלב לבד בבית וכשחזרת גילית שהוא הפיל לך את המחשב והוא נשבר",
+    "CharacterName": "גמל עייף",
+    "LeftSwipeAction": {
+        "actionText": "אנסה לתקן בעצמי, תיקון יכול להיות יקר",
+        "cardStats": {
+            "grades": -6,
+            "friends": 0,
+            "health": -2,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "ארוץ לתקן אותו, כל העבודות ללימודים עליו ולא מגובות",
+        "cardStats": {
+            "grades": 3,
+            "friends": 0,
+            "health": 0,
+            "money": -5
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": true
+}

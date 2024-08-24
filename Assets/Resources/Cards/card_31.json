@@ -1,0 +1,28 @@
+{
+    "id": 31,
+    "CardImageIndex": 5,
+    "CardText": "צריך להתחיל לבחור קורסי בחירה",
+    "CharacterName": "גמל לומד",
+    "LeftSwipeAction": {
+        "actionText": "חדר כושר ופינג פונג, קל!",
+        "cardStats": {
+            "grades": -3,
+            "friends": 2,
+            "health": 6,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "אבקש לעשות קורס העשרה במדמח",
+        "cardStats": {
+            "grades": 3,
+            "friends": -3,
+            "health": -6,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

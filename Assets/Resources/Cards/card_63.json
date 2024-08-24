@@ -1,0 +1,28 @@
+{
+    "id": 63,
+    "CardImageIndex": 1,
+    "CardText": "החברים רוצים להיפגש, אבל אף אחד לא יכול להזמין אליו",
+    "CharacterName": "חברים גמלים",
+    "LeftSwipeAction": {
+        "actionText": "אזמין אליי, הכי כיף",
+        "cardStats": {
+            "grades": 0,
+            "friends": 3,
+            "health": -3,
+            "money": -2
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "אציע שנשב באיזה בר",
+        "cardStats": {
+            "grades": 0,
+            "friends": 1,
+            "health": 2,
+            "money": -5
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

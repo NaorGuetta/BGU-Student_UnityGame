@@ -1,0 +1,28 @@
+{
+    "id": 29,
+    "CardImageIndex": 5,
+    "CardText": "נפתחה ההרשמה למועדון השחמט של האוניברסיטה",
+    "CharacterName": "גמל לומד",
+    "LeftSwipeAction": {
+        "actionText": "ארשם! אני ממש טוב בשחמט, אולי אזכה גם בתחרויות",
+        "cardStats": {
+            "grades": -2,
+            "friends": 0,
+            "health": 0,
+            "money": 3
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "מה שחמט,\n זה הזה בלי הקוביות לא ?",
+        "cardStats": {
+            "grades": 4,
+            "friends": 0,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

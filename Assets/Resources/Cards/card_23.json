@@ -1,0 +1,28 @@
+{
+    "id": 23,
+    "CardImageIndex": 1,
+    "CardText": "חבר הציע לך לבוא ללמוד איתו ברוסטרס",
+    "CharacterName": "חברים גמלים",
+    "LeftSwipeAction": {
+        "actionText": "המלצרית שפכה לך קפה על המחשב. הלכה המקלדת",
+        "cardStats": {
+            "grades": -3,
+            "friends": 3,
+            "health": 0,
+            "money": -7
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "אני לא מצליח להתרכז בבית קפה, אשאר ללמוד בבית",
+        "cardStats": {
+            "grades": 3,
+            "friends": -6,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

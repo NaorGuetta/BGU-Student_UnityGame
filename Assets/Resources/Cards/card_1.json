@@ -1,0 +1,28 @@
+{
+    "id": 1,
+    "CardImageIndex": 5,
+    "CardText": "חייב לצאת לספריה לקחת את הקורקינט?",
+    "CharacterName": "גמל לומד",
+    "LeftSwipeAction": {
+        "actionText": "הקורקינט נגנב , צריך לקנות חדש",
+        "cardStats": {
+            "grades": 6,
+            "friends": 0,
+            "health": 0,
+            "money": -3
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "איזה חום אני לא מסוגל",
+        "cardStats": {
+            "grades": 6,
+            "friends": 0,
+            "health": -3,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

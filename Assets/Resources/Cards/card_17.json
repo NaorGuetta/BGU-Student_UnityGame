@@ -1,0 +1,28 @@
+{
+    "id": 17,
+    "CardImageIndex": 2,
+    "CardText": "הבעל דירה החליט להעלות מחיר לשנה הבאה",
+    "CharacterName": "גמל בלי כסף",
+    "LeftSwipeAction": {
+        "actionText": "מבקש עזרה מההורים ומשלים את ההפרש, אין סיכוי שעוזב את הדירה",
+        "cardStats": {
+            "grades": 0,
+            "friends": 2,
+            "health": 0,
+            "money": -3
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "מתבאס ממש לעזוב את השותפים, אבל מחפש דירה אחרת",
+        "cardStats": {
+            "grades": 0,
+            "friends": -4,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

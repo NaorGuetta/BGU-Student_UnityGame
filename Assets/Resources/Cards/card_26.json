@@ -1,0 +1,28 @@
+{
+    "id": 26,
+    "CardImageIndex": 2,
+    "CardText": "חבר מהתואר הזמין אותך לחתונה שלו, אבל אף אחד מהחברים הקרובים שלך לא הולכים",
+    "CharacterName": "גמל בלי כסף",
+    "LeftSwipeAction": {
+        "actionText": "לא אלך, גם הוא לא כזה חבר קרוב בכל מקרה",
+        "cardStats": {
+            "grades": 0,
+            "friends": -3,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "הולך לשמוח איתם ושם צ'ק של 005 שקל",
+        "cardStats": {
+            "grades": 0,
+            "friends": 3,
+            "health": 0,
+            "money": -6
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

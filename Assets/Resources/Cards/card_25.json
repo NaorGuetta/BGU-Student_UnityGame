@@ -1,0 +1,28 @@
+{
+    "id": 25,
+    "CardImageIndex": 5,
+    "CardText": "נכשלת במועד א', מועד ב' או קורס חוזר?",
+    "CharacterName": "גמל לומד",
+    "LeftSwipeAction": {
+        "actionText": "טס בכל מקרה, אעשה את הקורס שוב",
+        "cardStats": {
+            "grades": -6,
+            "friends": 3,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "אשאר למועד ב' ואשנה את הטיסה ליום אחרי",
+        "cardStats": {
+            "grades": 3,
+            "friends": 0,
+            "health": 0,
+            "money": -3
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": true
+}

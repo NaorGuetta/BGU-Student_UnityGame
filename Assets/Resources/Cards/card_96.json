@@ -1,0 +1,32 @@
+{
+    "id": 96,
+    "CardImageIndex": 9,
+    "CardText": "סוף תקופה נארגן מסיבת פרידה ספרדית?",
+    "CharacterName": "",
+    "LeftSwipeAction": {
+        "actionText": "ברור החברים החדשים שלי יעופו על זה",
+        "cardStats": {
+            "grades": 0,
+            "friends": 4,
+            "health": 4,
+            "money": 0
+        },
+        "followUpCardIds": [
+            97
+        ]
+    },
+    "RightSwipeAction": {
+        "actionText": "לא נפרד מאף אחד הכל פה זמני פלוס אני גמור",
+        "cardStats": {
+            "grades": 0,
+            "friends": -4,
+            "health": 2,
+            "money": 0
+        },
+        "followUpCardIds": [
+            97
+        ]
+    },
+    "special": 0,
+    "isfollowUp": true
+}

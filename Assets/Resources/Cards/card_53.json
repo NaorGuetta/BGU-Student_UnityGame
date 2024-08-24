@@ -1,0 +1,28 @@
+{
+    "id": 53,
+    "CardImageIndex": 1,
+    "CardText": "מישהו מהתואר שהיה במילואים מבקש להצטרף לקבוצה שלך בעבודה",
+    "CharacterName": "חברים גמלים",
+    "LeftSwipeAction": {
+        "actionText": "אגיד לו שכבר אי אפשר, סיימנו את העבודה",
+        "cardStats": {
+            "grades": 2,
+            "friends": -6,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "ברור שאצטרף אותו, מה השאלה",
+        "cardStats": {
+            "grades": -2,
+            "friends": 4,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

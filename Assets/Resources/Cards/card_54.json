@@ -1,0 +1,28 @@
+{
+    "id": 54,
+    "CardImageIndex": 1,
+    "CardText": "אין לך פטור מאנגלית מהפסיכומטרי, תעשה קורס באנגלית או מבחן אמירם?",
+    "CharacterName": "חברים גמלים",
+    "LeftSwipeAction": {
+        "actionText": "מבחן, אשקיע כמה ימים ואסיים עם זה",
+        "cardStats": {
+            "grades": -3,
+            "friends": 0,
+            "health": -3,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "אעשה קורס ואוציא ציון טוב, זה יעלה ממוצע",
+        "cardStats": {
+            "grades": 3,
+            "friends": 0,
+            "health": -3,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

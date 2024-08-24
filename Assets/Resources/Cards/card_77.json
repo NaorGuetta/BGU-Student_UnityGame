@@ -1,0 +1,28 @@
+{
+    "id": 77,
+    "CardImageIndex": 5,
+    "CardText": "בדקו לך בקפידה את שאר המבחן והחליטו להוריד לך נקודות בשאלה אחרת",
+    "CharacterName": "גמל לומד",
+    "LeftSwipeAction": {
+        "actionText": "זה לא פייר! אנסה לדבר עם הבודק ולהחשיב את הציון הראשון",
+        "cardStats": {
+            "grades": -3,
+            "friends": 0,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "במילא תכננתי לעשות מועד ב'",
+        "cardStats": {
+            "grades": 3,
+            "friends": 0,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": true
+}

@@ -1,0 +1,28 @@
+{
+    "id": 13,
+    "CardImageIndex": 3,
+    "CardText": "באמצע הסמסטר בתקופה עמוסה, אבל הבן/ת זוג מרגישים שאתה לא משקיע בהם",
+    "CharacterName": "בת זוג גמל",
+    "LeftSwipeAction": {
+        "actionText": "מפנה ערב אחד של לימודים ולוקח אותם למסעדה מושקעת",
+        "cardStats": {
+            "grades": -3,
+            "friends": 3,
+            "health": 0,
+            "money": -3
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "מסביר להם את המצב ומתחנן שיבינו אותך. )הם לא ☹ (",
+        "cardStats": {
+            "grades": 3,
+            "friends": -6,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

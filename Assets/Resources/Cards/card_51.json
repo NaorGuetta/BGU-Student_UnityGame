@@ -1,0 +1,28 @@
+{
+    "id": 51,
+    "CardImageIndex": 6,
+    "CardText": "לקראת יום ארוך באוניברסיטה",
+    "CharacterName": "גמל עייף",
+    "LeftSwipeAction": {
+        "actionText": "אכין לי אוכל ואביא בקופסה",
+        "cardStats": {
+            "grades": 0,
+            "friends": -3,
+            "health": 2,
+            "money": 2
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "אוכל עם חברים במקסיקני",
+        "cardStats": {
+            "grades": 0,
+            "friends": 3,
+            "health": -3,
+            "money": -3
+        },
+        "followUpCardIds": [52]
+    },
+    "special": 0,
+    "isfollowUp": false
+}

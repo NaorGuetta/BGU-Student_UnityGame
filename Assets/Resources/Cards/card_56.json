@@ -1,0 +1,28 @@
+{
+    "id": 56,
+    "CardImageIndex": 1,
+    "CardText": "קבעת ללמוד עם חבר, אבל הוא אמר לעוד שני חברים לבוא",
+    "CharacterName": "חברים גמלים",
+    "LeftSwipeAction": {
+        "actionText": "זה יותר מדי ולא אצליח להתרכז, אגיד לו שאלמד לבד",
+        "cardStats": {
+            "grades": 3,
+            "friends": -5,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "לא יודע כמה נצליח ללמוד אבל יהיה כיף",
+        "cardStats": {
+            "grades": -4,
+            "friends": 3,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

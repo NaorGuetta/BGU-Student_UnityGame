@@ -1,0 +1,28 @@
+{
+    "id": 204,
+    "CardImageIndex": 1,
+    "CardText": "סיימתי את הסמסטר עם ממוצע 06 ...",
+    "CharacterName": "החלק כדי לנסות שוב",
+    "LeftSwipeAction": {
+        "actionText": "מתחיל קריירת לק גל",
+        "cardStats": {
+            "grades": 0,
+            "friends": 0,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "טס לארהב לעבוד בעגלות",
+        "cardStats": {
+            "grades": 0,
+            "friends": 0,
+            "health": 0,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 4,
+    "isfollowUp": false
+}

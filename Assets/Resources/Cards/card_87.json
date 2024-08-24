@@ -1,0 +1,32 @@
+{
+    "id": 87,
+    "CardImageIndex": 8,
+    "CardText": "4 חודשים טסו להם הגיע הזמן להפרד?",
+    "CharacterName": "",
+    "LeftSwipeAction": {
+        "actionText": "מסיבת פרידה איטלקית קללל",
+        "cardStats": {
+            "grades": 0,
+            "friends": 4,
+            "health": 0,
+            "money": -4
+        },
+        "followUpCardIds": [
+            97
+        ]
+    },
+    "RightSwipeAction": {
+        "actionText": "אין כוחות נפשיים חלאס הביתה",
+        "cardStats": {
+            "grades": 0,
+            "friends": -4,
+            "health": 2,
+            "money": 0
+        },
+        "followUpCardIds": [
+            97
+        ]
+    },
+    "special": 0,
+    "isfollowUp": true
+}

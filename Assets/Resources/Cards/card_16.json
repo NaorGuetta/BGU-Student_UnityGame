@@ -1,0 +1,28 @@
+{
+    "id": 16,
+    "CardImageIndex": 6,
+    "CardText": "אתה יומיים לפני מבחן חשוב והמקרר ריק, אבל זה סופש ושום סופר קרוב לא פתוח",
+    "CharacterName": "גמל עייף",
+    "LeftSwipeAction": {
+        "actionText": "בארון יש מלא חטיפים, אפשר לחיות על זה יומיים",
+        "cardStats": {
+            "grades": 3,
+            "friends": 0,
+            "health": -6,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "יוצא למסע...\n וקונה בסופר הרחוק יותר",
+        "cardStats": {
+            "grades": -3,
+            "friends": 0,
+            "health": 6,
+            "money": -3
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

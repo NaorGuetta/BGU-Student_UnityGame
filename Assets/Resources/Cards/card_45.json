@@ -1,0 +1,28 @@
+{
+    "id": 45,
+    "CardImageIndex": 1,
+    "CardText": "הציעו השנה לתגמל את מי שיהיה ועד של שני קורסים ומעלה בשני נק\"ז",
+    "CharacterName": "חברים גמלים",
+    "LeftSwipeAction": {
+        "actionText": "אהיה ועד גם בשלושה קורסים",
+        "cardStats": {
+            "grades": -3,
+            "friends": 3,
+            "health": -3,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "אין לי כוח לתלונות של כולם זה לא שווה את זה",
+        "cardStats": {
+            "grades": 3,
+            "friends": -4,
+            "health": 3,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}

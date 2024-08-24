@@ -1,0 +1,28 @@
+{
+    "id": 78,
+    "CardImageIndex": 1,
+    "CardText": "אתה ממש מבואס אחרי מבחן שהלך לא טוב, וחברים הציעו לך לבוא איתם לבריכה",
+    "CharacterName": "חברים גמלים",
+    "LeftSwipeAction": {
+        "actionText": "אלך איתם, זה בטוח ישפר לי את מצב הרוח",
+        "cardStats": {
+            "grades": 0,
+            "friends": 3,
+            "health": 2,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "RightSwipeAction": {
+        "actionText": "אני לא במצברוח לזה, אלך הביתה להירגע",
+        "cardStats": {
+            "grades": 0,
+            "friends": -3,
+            "health": 3,
+            "money": 0
+        },
+        "followUpCardIds": []
+    },
+    "special": 0,
+    "isfollowUp": false
+}
