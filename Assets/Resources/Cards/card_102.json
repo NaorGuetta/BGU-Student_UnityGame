@@ -4,7 +4,7 @@
     "CardText": "חברים הזמינו אותך לארוחת שישי",
     "CharacterName": "חברים גמלים",
     "LeftSwipeAction": {
-        "actionText": "ברור שהולך/n לא יזיק לי קצת כיף",
+        "actionText": "ברור שהולך\n לא יזיק לי קצת כיף",
         "cardStats": {
             "grades": -4,
             "friends": 3,
