@@ -21,7 +21,7 @@
             "health": 0,
             "money": 0
         },
-        "followUpCardIds": [80]
+        "followUpCardIds": [100]
     },
     "special": 0,
     "isfollowUp": false

@@ -11,7 +11,7 @@
             "health": -3,
             "money": 0
         },
-        "followUpCardIds": [79]
+        "followUpCardIds": [99]
     },
     "RightSwipeAction": {
         "actionText": "מוותר ורואה את ההקלטה כשתעלה",

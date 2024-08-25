@@ -21,10 +21,10 @@ public class GameStats
         Money = ClampValue(Money + mod.money);
         Friends = ClampValue(Friends + mod.friends);
         Grades = ClampValue(Grades + mod.grades);
-        Debug.Log("Health " + Health);
+        /*Debug.Log("Health " + Health);
         Debug.Log("Money " + Money);
         Debug.Log("Friends " + Friends);
-        Debug.Log("Grades " + Grades);
+        Debug.Log("Grades " + Grades);*/
 
     }
 

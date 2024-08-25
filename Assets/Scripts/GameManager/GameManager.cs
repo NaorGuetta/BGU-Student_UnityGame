@@ -21,6 +21,7 @@ public class GameManager : MonoBehaviour
         /*//TO DO REMOVE THIS IS JUST FOR TEST AND DEBUGGING :
         PlayerPrefs.DeleteKey("FirstGame");
         PlayerPrefs.Save();*/
+        //PlayerPrefs.DeleteKey("HighScoreDays");
         gameAudioManager = GameAudioManager.instance;
         ReStartGame();
     }
@@ -102,7 +103,7 @@ public class GameManager : MonoBehaviour
         if (endGameType > 0)
         {
             gameAudioManager.PlayResetSound();
-            Debug.Log("endGameType" + endGameType);
+            /*Debug.Log("endGameType" + endGameType);*/
             cardSpawner.SpawnCard(deck.PullSpecialCard(endGameType-1));
             EndGame();
         }

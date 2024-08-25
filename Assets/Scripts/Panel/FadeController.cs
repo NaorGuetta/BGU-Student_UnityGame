@@ -3,6 +3,7 @@ using UnityEngine.UI;
 using TMPro;
 using System.Collections;
 using System.Collections.Generic;
+using System;
 
 public class FadeController : MonoBehaviour
 {
@@ -26,6 +27,9 @@ public class FadeController : MonoBehaviour
     public float dayCounterRewindDuration = 1.0f;
     private static float rewindStartDays;
 
+    private int HighScore = 0;
+    public TextMeshProUGUI HighScoreText;
+
     private OverlayState overlayState = OverlayState.Hidden;
     private float fadeStartTime;
     private float rewindStartTime;
@@ -44,11 +48,22 @@ public class FadeController : MonoBehaviour
     }
 
     public void StartFadeAnimation() {
-        
+        if (PlayerPrefs.HasKey("HighScoreDays"))
+        {
+            HighScore = PlayerPrefs.GetInt("HighScoreDays");
+        }
+        string invertedScore = ReverseString(HighScore.ToString());
+        HighScoreText.text = "השיא שלי הוא " + invertedScore +" ימים באוניברסיטה !";
         UpdateHelloTextWithRandomName();
         FadeIn();
         rewindStartDays = float.Parse(daysSurvived.text);
 
+    }
+    public string ReverseString(string input)
+    {
+        char[] charArray = input.ToCharArray();
+        Array.Reverse(charArray);
+        return new string(charArray);
     }
 
     private void Update()
@@ -162,6 +177,7 @@ public class FadeController : MonoBehaviour
         helloText.enabled = enabled;
         daysInUniText.enabled = enabled;
         daysSurvived.enabled = enabled;
+        HighScoreText.enabled = enabled;
     }
 
     private void SetOverlayAlpha(float alpha)
@@ -170,6 +186,7 @@ public class FadeController : MonoBehaviour
         SetColorAlpha(helloText, alpha);
         SetColorAlpha(daysInUniText, alpha);
         SetColorAlpha(daysSurvived, alpha);
+        SetColorAlpha(HighScoreText, alpha);
     }
 
     private void SetOverlayVisible(bool visible)
@@ -220,7 +237,7 @@ public class FadeController : MonoBehaviour
     private void UpdateHelloTextWithRandomName()
     {
         // Select a random name from the list
-        string randomName = names[Random.Range(0, names.Count)];
+        string randomName = names[UnityEngine.Random.Range(0, names.Count)];
         // Update the helloText with the new message
         helloText.text = $"ברכותי {randomName},\n התקבלת לאוניברסיטת בן גוריון בנגב !";
     }
